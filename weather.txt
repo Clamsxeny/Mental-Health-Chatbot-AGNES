@@ -1,0 +1,11 @@
+Moon Phase: WANING_CRESCENT
+Sun Rise: 05:30:00
+Sun Set: 17:59:00
+morning
+temperature: 29C description: Patchy rain possible
+afternoon
+temperature: 32C description: Patchy rain possible
+evening
+temperature: 31C description: Light drizzle
+night
+temperature: 30C description: Patchy rain possible
